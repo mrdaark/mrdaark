@@ -1,0 +1,66 @@
+body {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+/* BEGIN (write your solution here) */
+
+p {
+    margin-bottom: 12px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 0;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 32px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid gray;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 0;
+    font-weight: 400;
+}
+
+div#header {
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+div#footer {
+    margin-top: 64px;
+    text-align: center;
+}
+
+div#header h2 {
+    text-align: center;
+}
+
+div#main p.caption {
+    font-size: 18px;
+}
+
+div#main span.perion {
+    font-style: italic;
+}
+
+div#footer {
+    font-size: 12px;
+    text-align: center;
+}
+
+div#footer p.caption {
+    font-weight: bold;
+}
+/* END */
